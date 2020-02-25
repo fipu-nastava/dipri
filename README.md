@@ -1,6 +1,6 @@
 # Dizajn i programiranje računalnih igara 2019/2020
 
-## Unity verzija: 2019.3.2f1
+*Unity verzija: 2019.3.2f1*
 
 
 
