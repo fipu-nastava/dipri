@@ -10,11 +10,10 @@ Implementacija [Roll-a-ball](https://learn.unity.com/project/roll-a-ball-tutoria
 
 
 
-<!--
 
 ### 2. vježba
+Terrain vježba uz korištenje [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) asseta.
 
--->
 
 
 <!--
