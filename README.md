@@ -10,9 +10,21 @@ Implementacija [Roll-a-ball](https://learn.unity.com/project/roll-a-ball-tutoria
 
 
 
+![Rol](imgs/roll_a_ball.png)
+
+
+
+
+
 
 ### 2. vježba
 Terrain vježba uz korištenje [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) asseta.
+
+
+
+![Terrain](imgs/terrain.png)
+
+
 
 
 
@@ -25,6 +37,12 @@ Korišteni asseti:
 - [ENGINES](https://assetstore.unity.com/packages/audio/sound-fx/engines-123836)
 - [FREE Battle Music Pack](https://assetstore.unity.com/packages/audio/music/orchestral/free-battle-music-pack-54023)
 - [Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-4183)
+
+
+
+![Skybox Audio Lighting](imgs/skbox_audio_lighting.png)
+
+
 
 
 
