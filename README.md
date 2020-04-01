@@ -66,11 +66,16 @@ Korišteni asseti:
 
 
 
-<!--
 
 ### 5. vježba
 
--->
+2D Igra - Implementacija Flappy Bird igre s [unity tutoriala](https://learn.unity.com/tutorial/live-session-making-a-flappy-bird-style-game)
+
+Required assets are also available in this [zip](./Vj_5/flappy-bird-assets.zip)
+
+![Flappy Bird](imgs/flappy_bird.png)
+
+
 
 <!--
 
