@@ -5,7 +5,7 @@
 
 
 
-### 1. vježba
+## [1. vježba](Vj_1)
 Implementacija [Roll-a-ball](https://learn.unity.com/project/roll-a-ball-tutorial) igre
 
 
@@ -17,7 +17,7 @@ Implementacija [Roll-a-ball](https://learn.unity.com/project/roll-a-ball-tutoria
 
 
 
-### 2. vježba
+## [2. vježba](Vj_2)
 Terrain vježba uz korištenje [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) asseta.
 
 
@@ -28,7 +28,7 @@ Terrain vježba uz korištenje [Nature Starter Kit 2](https://assetstore.unity.c
 
 
 
-### 3. vježba
+## [3. vježba](Vj_3)
 - Skybox
 - Lighting
 - Audio (AudioManger)
@@ -46,7 +46,7 @@ Korišteni asseti:
 
 
 
-### 4. vježba
+## [4. vježba](Vj_4)
 
 <h3 style="color:red">Rollin pumpkins</h3>
 
@@ -67,7 +67,7 @@ Korišteni asseti:
 
 
 
-### 5. vježba
+## [5. vježba](Vj_5)
 
 2D Igra - Implementacija Flappy Bird igre s [unity tutoriala](https://learn.unity.com/tutorial/live-session-making-a-flappy-bird-style-game)
 
@@ -79,7 +79,7 @@ Potrebni asseti dostupni su u ovom [zipu](./Vj_5/flappy-bird-assets.zip)
 
 
 
-### 6. vježba
+## [6. vježba](Vj_6)
 
 [Unity NavMesh](https://docs.unity3d.com/Manual/Navigation.html)
 
