@@ -77,11 +77,18 @@ Potrebni asseti dostupni su u ovom [zipu](./Vj_5/flappy-bird-assets.zip)
 
 
 
-<!--
+
 
 ### 6. vježba
 
--->
+[Unity NavMesh](https://docs.unity3d.com/Manual/Navigation.html)
+
+[Brackeys NavMesh tutorial](https://learn.unity.com/tutorial/unity-navmesh)
+
+[NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents/tree/2019.3)
+
+![NavMesh](imgs/navmesh.png)
+
 
 <!--
 
