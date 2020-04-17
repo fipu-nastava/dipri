@@ -68,7 +68,7 @@ Korišteni asseti:
 
 
 
-Korišteni asseti:
+Used assets:
 
 - [8-Bit Style Sound Effects](https://assetstore.unity.com/packages/audio/sound-fx/8-bit-style-sound-effects-68228) - *Blip_C_07* sound
 - [8-bit 8 Pack Music Loops](https://assetstore.unity.com/packages/audio/music/electronic/8-bit-8-pack-music-loops-60232) - *Happy beats* sound
@@ -115,56 +115,16 @@ Potrebni asseti dostupni su u ovom [zipu](./Vj_5/flappy-bird-assets.zip)
 
 
 
-<!--
 
-### 7. vježba
 
--->
 
-<!--
+## [7. vježba](Vj_7)
 
-### 8. vježba
+[Unity Animation](https://docs.unity3d.com/Manual/AnimationSection.html)
 
--->
+Used assets:
 
-<!--
+- [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) - *ground01.tga* texture
 
-### 9. vježba
 
--->
-
-<!--
-
-### 10. vježba
-
--->
-
-<!--
-
-### 11. vježba
-
--->
-
-<!--
-
-### 12. vježba
-
--->
-
-<!--
-
-### 13. vježba
-
--->
-
-<!--
-
-### 14. vježba
-
--->
-
-<!--
-
-### 15. vježba
-
--->
+![Animation1](imgs/animation_1.png)
