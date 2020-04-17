@@ -1,6 +1,6 @@
 # Dizajn i programiranje računalnih igara 2019/2020
 
-*Unity verzija: 2019.3.2f1*
+*Unity version: 2019.3.2f1*
 
 
 
@@ -9,8 +9,8 @@
 
 
 
-## [1. vježba](Vj_1)
-Implementacija [Roll-a-ball](https://learn.unity.com/project/roll-a-ball-tutorial) igre
+## [1. exercise](Vj_1)
+Implementation of [Roll-a-ball](https://learn.unity.com/project/roll-a-ball-tutorial) game
 
 
 
@@ -25,8 +25,8 @@ Implementacija [Roll-a-ball](https://learn.unity.com/project/roll-a-ball-tutoria
 
 
 
-## [2. vježba](Vj_2)
-Terrain vježba uz korištenje [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) asseta.
+## [2. exercise](Vj_2)
+Terrain exercise using [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) asset.
 
 
 
@@ -40,12 +40,12 @@ Terrain vježba uz korištenje [Nature Starter Kit 2](https://assetstore.unity.c
 
 
 
-## [3. vježba](Vj_3)
+## [3. exercise](Vj_3)
 - Skybox
 - Lighting
 - Audio (AudioManger)
 
-Korišteni asseti:
+Used assets:
 - [ENGINES](https://assetstore.unity.com/packages/audio/sound-fx/engines-123836)
 - [FREE Battle Music Pack](https://assetstore.unity.com/packages/audio/music/orchestral/free-battle-music-pack-54023)
 - [Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-4183)
@@ -62,7 +62,7 @@ Korišteni asseti:
 
 
 
-## [4. vježba](Vj_4)
+## [4. exercise](Vj_4)
 
 <h3 style="color:red">Rollin pumpkins</h3>
 
@@ -87,11 +87,11 @@ Used assets:
 
 
 
-## [5. vježba](Vj_5)
+## [5. exercise](Vj_5)
 
-2D Igra - Implementacija Flappy Bird igre s [unity tutoriala](https://learn.unity.com/tutorial/live-session-making-a-flappy-bird-style-game)
+2D Game - Flappy Bird game implementation from [unity tutorial](https://learn.unity.com/tutorial/live-session-making-a-flappy-bird-style-game)
 
-Potrebni asseti dostupni su u ovom [zipu](./Vj_5/flappy-bird-assets.zip)
+Assets needed are available in this [zip](./Vj_5/flappy-bird-assets.zip)
 
 ![Flappy Bird](imgs/flappy_bird.png)
 
@@ -101,7 +101,7 @@ Potrebni asseti dostupni su u ovom [zipu](./Vj_5/flappy-bird-assets.zip)
 
 
 
-## [6. vježba](Vj_6)
+## [6. exercise](Vj_6)
 
 [Unity NavMesh](https://docs.unity3d.com/Manual/Navigation.html)
 
@@ -118,7 +118,7 @@ Potrebni asseti dostupni su u ovom [zipu](./Vj_5/flappy-bird-assets.zip)
 
 
 
-## [7. vježba](Vj_7)
+## [7. exercise](Vj_7)
 
 [Unity Animation](https://docs.unity3d.com/Manual/AnimationSection.html)
 
