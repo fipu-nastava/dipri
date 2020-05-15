@@ -159,6 +159,25 @@ Used assets:
 Used assets:
 
 - [3rd Person Controller + Fly Mode](https://assetstore.unity.com/packages/templates/systems/3rd-person-controller-fly-mode-28647)
+- [Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
 - [Labyrinth unity package](./Vj_9/Labirint.unitypackage)
 
 ![Character animation with NavMesh](imgs/char_navmesh.png)
+
+
+
+
+
+## [10. exercise](Vj_10)
+
+
+[ScriptableObjects](https://docs.unity3d.com/ScriptReference/ScriptableObject.html)
+
+Used assets:
+
+- [3rd Person Controller + Fly Mode](https://assetstore.unity.com/packages/templates/systems/3rd-person-controller-fly-mode-28647)
+- [Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
+- [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) - *ground01.tga* texture
+
+
+![Scriptable objects](imgs/scriptable_objects.png)
