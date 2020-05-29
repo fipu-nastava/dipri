@@ -41,7 +41,7 @@ public class QuestManager : MonoBehaviour {
     // Set the quest as in progress
     public static void AcceptQuest(Quest quest)
     {
-        if(quest.questState != Quest.QuestState.Initial)
+        if(!quest.IsInitial())
         {
             // Quest in progress or already completed, bail out
             return;

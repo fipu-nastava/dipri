@@ -84,6 +84,12 @@ public class Quest {
         questState = QuestState.InProgress;
     }
 
+    // Helper method to check if quest is initial
+    public bool IsInitial()
+    {
+        return questState == QuestState.Initial;
+    }
+
     // Helper method to check if quest in progress
     public bool IsInProgress()
     {

@@ -10,7 +10,7 @@ public class QuestGiver : MonoBehaviour {
     {
         // Only for testing purposes
         // When the player collides with this object the next quest is issued
-        var newQuest = QuestManager.Quests.quests.Find(q => q.questState == Quest.QuestState.Initial);
+        var newQuest = QuestManager.Quests.quests.Find(q => q.IsInitial());
         if(newQuest != null)
             QuestManager.AcceptQuest(newQuest);
     }
