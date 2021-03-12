@@ -4,7 +4,7 @@
 
 
 ## [1. exercise](Vj_1)
-Implementation of [Roll-a-ball](https://learn.unity.com/project/roll-a-ball-tutorial) game
+Implementation of [Roll-a-ball](https://learn.unity.com/project/roll-a-ball) game
 
 
 ![Rol](imgs/roll_a_ball.png)
