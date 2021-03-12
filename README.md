@@ -1,4 +1,4 @@
-# Dizajn i programiranje računalnih igara 2019/2020
+# Dizajn i programiranje računalnih igara 2020/2021
 
 *Unity version: 2020.2.6f1*
 
