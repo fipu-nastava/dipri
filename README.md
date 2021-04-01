@@ -51,3 +51,44 @@ Used assets:
 
 
 ![Skybox Audio Lighting](imgs/skybox_audio_lighting.png)
+
+
+
+
+
+## [4. exercise](Vj_4)
+
+- Learn more on [Unity UI components tutorial](https://learn.unity.com/tutorial/ui-components)
+
+Used assets:
+
+- [Fantasy Wooden GUI : Free](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
+
+
+
+![UI components](imgs/ui_components.png)
+
+
+
+
+
+## [5. exercise](Vj_5)
+
+<h3 style="color:red">Rollin pumpkins</h3>
+
+
+
+Used assets:
+
+- [8-Bit Style Sound Effects](https://assetstore.unity.com/packages/audio/sound-fx/8-bit-style-sound-effects-68228) - *Blip_C_07* sound
+- [8-bit 8 Pack Music Loops](https://assetstore.unity.com/packages/audio/music/electronic/8-bit-8-pack-music-loops-60232) - *Happy beats* sound
+- [TGU Skybox Pack](https://assetstore.unity.com/packages/2d/textures-materials/sky/tgu-skybox-pack-96433) - *Urbanlight* skybox
+- [Stylized Wood Texture](https://assetstore.unity.com/packages/2d/textures-materials/wood/stylized-wood-texture-153499) - *Stylize Wood* material
+- [Bretwalda Halloween](https://assetstore.unity.com/packages/3d/props/food/bretwalda-halloween-74177) - *pumpkinCut* prefab
+
+
+
+![Rollin pumpkins](imgs/rollin_pumpkins.png)
+
+
+
