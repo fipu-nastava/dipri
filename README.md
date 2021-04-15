@@ -104,3 +104,20 @@ Used assets:
 Assets needed are available in this [zip](./Vj_6/flappy-bird-assets.zip)
 
 ![Flappy Bird](imgs/flappy_bird.png)
+
+
+
+
+
+## [7. exercise](Vj_7)
+
+[Unity NavMesh](https://docs.unity3d.com/2020.2/Documentation/Manual/Navigation.html)
+
+[Brackeys NavMesh tutorial](https://learn.unity.com/tutorial/unity-navmesh)
+
+[NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents/tree/master)
+
+![NavMesh](imgs/navmesh.png)
+
+
+
