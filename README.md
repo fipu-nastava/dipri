@@ -121,3 +121,15 @@ Assets needed are available in this [zip](./Vj_6/flappy-bird-assets.zip)
 
 
 
+
+
+
+## [8. exercise](Vj_8)
+
+[Unity Animation](https://docs.unity3d.com/Manual/AnimationSection.html)
+
+Used assets:
+
+- [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) - *ground01.tga* texture
+
+![Animation](imgs/animation_1.png)
