@@ -61,4 +61,4 @@ crashlytics-build.properties
 
 *.DS_Store
 demo/*
-
+!Vj_10/Labirint.unitypackage
