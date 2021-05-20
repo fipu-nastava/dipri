@@ -184,3 +184,12 @@ Used assets:
 
 ![Scriptable objects](imgs/scriptable_objects.png)
 
+
+
+## [12. exercise](Vj_12)
+
+[PlayerPrefs](https://docs.unity3d.com/ScriptReference/PlayerPrefs.html)
+[Serialize Classes](https://medium.com/@madisonkarrh/serialize-entire-gameobjects-in-unity-803a1c942cfa)
+
+![PlayerPrefs and Serialization](imgs/prefs_serialization.png)
+
