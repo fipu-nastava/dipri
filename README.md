@@ -193,3 +193,13 @@ Used assets:
 
 ![PlayerPrefs and Serialization](imgs/prefs_serialization.png)
 
+
+
+
+
+## [13. exercise](Vj_13)
+
+Quest system using [ScriptableObjects](https://docs.unity3d.com/ScriptReference/ScriptableObject.html)
+
+
+![Quest System](imgs/quest_system.png)

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b10cd09ebf9da434587772e5944393a1, type: 3}
+  m_Name: QuestsCollection
+  m_EditorClassIdentifier: 
+  quests:
+  - name: TestLocation
+    questState: 2
+    displayName: Test Location
+    description: Go to the test location (cube)
+    questType: 1
+    enemyType: 0
+    locationName: TestLocation
+    itemType: 0
+    requiredAmount: 1
+    currentAmount: 1
+    requiredQuests: []
+    questAfterCompleted: []
+    rewardItems:
+    - type: 3
+      quantity: 10
+    - type: 4
+      quantity: 20
+  - name: Pickup
+    questState: 2
+    displayName: Pickup
+    description: Pick up the items
+    questType: 2
+    enemyType: 0
+    locationName: TestLocation
+    itemType: 0
+    requiredAmount: 2
+    currentAmount: 2
+    requiredQuests:
+    - TestLocation
+    questAfterCompleted:
+    - Kill_3_Goblin
+    - Kill_1_Monster
+    rewardItems: []
+  - name: Kill_3_Goblin
+    questState: 2
+    displayName: Kill Goblins
+    description: Kill the goblins to finish the quest
+    questType: 0
+    enemyType: 0
+    locationName: TestLocation
+    itemType: 0
+    requiredAmount: 3
+    currentAmount: 3
+    requiredQuests: []
+    questAfterCompleted: []
+    rewardItems:
+    - type: 3
+      quantity: 10
+    - type: 4
+      quantity: 20
+  - name: Kill_1_Monster
+    questState: 2
+    displayName: Kill the other enemies
+    description: Kill the monster to finish the quest
+    questType: 0
+    enemyType: 1
+    locationName: TestLocation
+    itemType: 0
+    requiredAmount: 1
+    currentAmount: 1
+    requiredQuests: []
+    questAfterCompleted: []
+    rewardItems:
+    - type: 3
+      quantity: 10
+    - type: 4
+      quantity: 20
