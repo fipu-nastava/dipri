@@ -1,6 +1,11 @@
 # Dizajn i programiranje računalnih igara 2020/2021
 
+### YouTube compilation of student projects
+
+[![YouTube compilation of student projects](https://img.youtube.com/vi/fVG7J6rJbVs/0.jpg)](https://www.youtube.com/watch?v=fVG7J6rJbVs)
+
 *Unity version: 2020.2.6f1*
+
 
 
 ## [1. exercise](Vj_1)
