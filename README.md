@@ -25,3 +25,5 @@ Terrain exercise using assets:
 - [Medieval house 3D](https://assetstore.unity.com/packages/3d/environments/historic/medieval-house-3d-66708)
 - [M4A3E2](https://assetstore.unity.com/packages/3d/vehicles/land/m4a3e2-84358)
 - [Space Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
+
+![Terrain](imgs/terrain.png)
