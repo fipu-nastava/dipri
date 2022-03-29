@@ -52,3 +52,18 @@ Used assets:
 
 
 ![Skybox Audio Lighting](imgs/skybox_audio_lighting.png)
+
+
+
+
+## [4. exercise](Vj_4)
+
+- Learn more on [Unity UI components tutorial](https://learn.unity.com/tutorial/ui-components)
+
+Used assets:
+
+- [Fantasy Wooden GUI : Free](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
+
+
+
+![UI components](imgs/ui_components.png)
