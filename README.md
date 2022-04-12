@@ -88,3 +88,14 @@ Used assets:
 
 
 ![Rollin pumpkins](imgs/rollin_pumpkins.png)
+
+
+
+
+## [6. exercise](Vj_6)
+
+2D Game - Flappy Bird game implementation from [unity tutorial](https://learn.unity.com/tutorial/live-session-making-a-flappy-bird-style-game)
+
+Assets needed are available in this [zip](./Vj_6/flappy-bird-assets.zip)
+
+![Flappy Bird](imgs/flappy_bird.png)
