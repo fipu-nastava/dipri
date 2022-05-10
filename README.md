@@ -126,3 +126,19 @@ Used assets:
 - [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) - *ground01.tga* texture
 
 ![Animation](imgs/animation_1.png)
+
+
+
+
+
+## [9. exercise](Vj_9)
+
+[Unity AnimationControllers](https://docs.unity3d.com/Manual/AnimatorControllers.html)
+
+Used assets:
+
+- [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) - *ground01.tga* texture
+- [Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
+- [Basic Motions FREE Pack](https://assetstore.unity.com/packages/3d/animations/basic-motions-free-pack-154271)
+
+![Animation2](imgs/animation_2.png)
