@@ -142,3 +142,19 @@ Used assets:
 - [Basic Motions FREE Pack](https://assetstore.unity.com/packages/3d/animations/basic-motions-free-pack-154271)
 
 ![Animation2](imgs/animation_2.png)
+
+
+
+
+
+## [10. exercise](Vj_10)
+
+[Coupling Animation and Navigation](https://docs.unity3d.com/Manual/nav-CouplingAnimationAndNavigation.html)
+
+Used assets:
+
+- [3rd Person Controller + Fly Mode](https://assetstore.unity.com/packages/templates/systems/3rd-person-controller-fly-mode-28647)
+- [Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
+- [Labyrinth unity package](./Vj_10/Labirint.unitypackage)
+
+![Character animation with NavMesh](imgs/char_navmesh.png)
