@@ -174,3 +174,12 @@ Used assets:
 - [Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) - *ground01.tga* texture
 
 ![Scriptable objects](imgs/scriptable_objects.png)
+
+
+
+## [12. exercise](Vj_12)
+
+Quest system using [ScriptableObjects](https://docs.unity3d.com/ScriptReference/ScriptableObject.html)
+
+
+![Quest System](imgs/quest_system.png)
