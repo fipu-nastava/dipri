@@ -5,7 +5,7 @@
 You can also clone each exercise separately by running the follwing commands:
 
 ```sh
-git clone --depth 0 --no-checkout https://github.com/fipu-nastava/dipri.git
+git clone --depth 1 --no-checkout https://github.com/fipu-nastava/dipri.git
 
 cd dipri
 
