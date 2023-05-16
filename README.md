@@ -1,7 +1,21 @@
-# Dizajn i programiranje računalnih igara 2021/2022
+# Dizajn i programiranje računalnih igara
 
-*Unity version: 2020.3.30f1*
+*Unity version: 2021.3.19f1*
 
+You can also clone each exercise separately by running the follwing commands:
+
+```sh
+git clone --depth 0 --no-checkout https://github.com/fipu-nastava/dipri.git
+
+cd dipri
+
+git sparse-checkout init --cone
+
+git sparse-checkout set <exercise folder here>
+
+git checkout @
+
+```
 
 
 
