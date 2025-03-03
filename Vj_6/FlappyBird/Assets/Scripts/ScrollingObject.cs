@@ -12,7 +12,7 @@ public class ScrollingObject : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
 
         // Start the object moving
-        rb2d.velocity = new Vector2(GameManager.Instance.scrollSpeed, 0);
+        rb2d.linearVelocity = new Vector2(GameManager.Instance.scrollSpeed, 0);
     }
 
     // Update is called once per frame
@@ -20,7 +20,7 @@ public class ScrollingObject : MonoBehaviour
     {
         if (GameManager.Instance.gameOver)
         {
-            rb2d.velocity = Vector2.zero;
+            rb2d.linearVelocity = Vector2.zero;
         }
         
     }

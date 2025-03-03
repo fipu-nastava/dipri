@@ -25,7 +25,7 @@ public class BirdController : MonoBehaviour
         {
             // Since the bird is always  falling/rising it always has some speed
             // so nullify the speed before adding force
-            rb2d.velocity = Vector2.zero;
+            rb2d.linearVelocity = Vector2.zero;
 
             rb2d.AddForce(new Vector2(0, upForce), ForceMode2D.Impulse);
 

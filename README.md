@@ -1,6 +1,6 @@
 # Dizajn i programiranje računalnih igara
 
-*Unity version: 2021.3.19f1*
+*Unity version: 6000.0.40f1*
 
 You can also clone each exercise separately by running the follwing commands:
 
